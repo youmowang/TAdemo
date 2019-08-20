@@ -1,7 +1,6 @@
 package com.hundsun.TAdemo.controller;
 
 
-import com.hundsun.TAdemo.mapper.StudentMapper;
 import com.hundsun.TAdemo.model.Student;
 import com.hundsun.TAdemo.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
