@@ -1,6 +1,6 @@
 package com.hundsun.TAdemo.service;
 
-import com.hundsun.TAdemo.mapper.StudentMapper;
+import com.hundsun.TAdemo.dao.StudentMapper;
 import com.hundsun.TAdemo.model.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
